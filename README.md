@@ -1,4 +1,5 @@
 # 👋 Hi there, I'm Vipul Singh
+<img align="right" src="https://your-image-url.com/image.png" width="200">
 
 Welcome to my GitHub profile! I'm an aspiring Data Analyst with a passion for AI and Data Science. Here's a little bit about me:
 
