@@ -44,18 +44,17 @@ I have completed a virtual internship as a Data Analyst on the Forage platform, 
 
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=VipulSingh2&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+## 🔥 Current Streak
 ![](https://github-readme-streak-stats.herokuapp.com/?user=VipulSingh2&theme=dark&hide_border=false)
+## 🗣️ Languages
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VipulSingh2&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🔝 Total Contributions
 ![](https://github-contributor-stats.vercel.app/api?username=VipulSingh2&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-## 🔥 Current Streak
-![](https://github-readme-streak-stats.herokuapp.com/?user=VipulSingh2&theme=dark&hide_border=false)
+
 
 ## 🌟 Longest Streak
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VipulSingh2&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
 
-[![](https://visitcount.itsvg.in/api?id=VipulSingh2&icon=0&color=3)](https://visitcount.itsvg.in)
