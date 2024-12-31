@@ -42,6 +42,8 @@ I have completed a virtual internship as a Data Analyst on the Forage platform, 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Streamlit](https://img.shields.io/badge/streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+
 
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=VipulSingh2&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
