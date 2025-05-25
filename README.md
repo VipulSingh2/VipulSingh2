@@ -54,4 +54,3 @@ I have completed a virtual internship as a Data Analyst on the Forage platform, 
 
 ## 🔝 Total Contributions
 ![](https://github-contributor-stats.vercel.app/api?username=VipulSingh2&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
