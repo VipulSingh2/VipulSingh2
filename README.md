@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm an aspiring Data Analyst with a passion for AI
 He/Him
 
 ## ⚡ Fun Fact
-I have completed a virtual internship as a Data Analyst on the Forage platform, and I enjoy working on programming problems related to counting combinations or permutations, and unique character identification in strings.
+Data Analyst with hands-on experience from virtual and on-site internships, including a Forage Data Analyst program, a Prolific summer internship (2023), and a Data Science internship at SLT (2025). Strong skills in data analysis, programming, and solving algorithmic challenges involving combinatorics and string processing. Passionate about applying analytical thinking to real-world data problems.
 
 ---
 
