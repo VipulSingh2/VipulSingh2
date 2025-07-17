@@ -44,6 +44,7 @@ Data Analyst with hands-on experience from virtual and on-site internships, incl
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-blue?style=for-the-badge&logo=langchain&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
 
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=VipulSingh2&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
